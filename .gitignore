@@ -1,0 +1,12 @@
+.godot/
+**/.godot/
+tools/godot/
+dist/
+build/
+content/backups/
+*.tmp
+*.bak
+*.log
+__pycache__/
+studio/runtime/
+player/data/default.json
